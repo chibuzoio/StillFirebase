@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143906368583",
+    "project_id": "stillfirebase-c7e0d",
+    "storage_bucket": "stillfirebase-c7e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143906368583:android:058c0e89401a466f769562",
+        "android_client_info": {
+          "package_name": "com.example.stillfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143906368583-0ed23pt7p23trdarivou00u529m9sg14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVwhvFfQWpM9ccgZ7HEicS1rF68jD91L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143906368583-0ed23pt7p23trdarivou00u529m9sg14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
